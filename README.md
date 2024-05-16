@@ -31,6 +31,18 @@ The purpose of this app is to help users decide how much data to "train" on when
 
 Please see the video [here](https://youtu.be/oSu4OCGVWV4) for a tutorial: https://youtu.be/oSu4OCGVWV4
 
+## How to Launch:
+
+1. **Install Streamlit:** If you haven't already, install Streamlit by running:
+
+   pip install streamlit
+
+3. **Download the Script:** Copy the provided code into a Python script file (e.g., `optimal_stopping.py`).
+
+4. **Launch the App:** Run the Streamlit app by executing the following commands in your terminal:
+
+   streamlit run optimal_stopping.py
+
 # Citations
 [1] Dan Teague, How To Find a Spouse: A Problem in Discrete Mathematics with an Assist from Calculus, (2017). Available at <a href="https://courses.ncssm.edu/math/Talks/PDFS/Spouse.pdf">https://courses.ncssm.edu/math/Talks/PDFS/Spouse.pdf</a>
 
