@@ -10,7 +10,7 @@ The optimal strategy for this problem involves a specific stopping rule: reject 
 
 In a modified of this optimal stopping problem, the goal shifts from maximizing the probability of selecting the best candidate to maximizing the expected score of the chosen candidate. Each candidate has a certain score associated with them, and the objective is to select the candidate with the highest expected score. 
 
-If each person is a random variable from a uniform distribution, then the optimal stopping rule under the problem setup is: reject the first √n candidates and then select the first candidate who is better than all the previously interviewed candidates [2]. The completed derivation can be found in citation [2] section 9.2 and Uniform_Expected_Secretary_Problem.pdf in the repostiroy.
+If each person is a random variable from a uniform distribution, then the optimal stopping rule under the problem setup is: reject the first √n candidates and then select the first candidate who is better than all the previously interviewed candidates [2]. The completed derivation can be found in citation [2] section 9.2 and Uniform_Expected_Secretary_Problem.pdf in the repository.
 
 When candidates are random variables from other distributions, optimal stopping rules under the problem setup is difficult to solve for analytically [3]. We address the problem of maximizing the expected score of the chosen candidate under various distributions of candidates via simulation. 
 
