@@ -1,5 +1,3 @@
-# Probability_Theory_Project - Helen Guo
-
 # An Optimal Stopping Problem
 
 Imagine you are trying to select a candidate from a pool of applicants. You have a fixed number of candidates to interview, let's say 𝑛 and you interview them one by one. After each interview, you must decide immediately whether to hire the candidate or move to the next one. Once you've moved on to the next candidate, you cannot return to a previous one. 
